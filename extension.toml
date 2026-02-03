@@ -1,0 +1,10 @@
+id = "mcp-server-cerebras"
+name = "Cerebras MCP Server"
+description = "Model Context Protocol Server for Cerebras Code API"
+version = "0.1.0"
+schema_version = 1
+authors = ["Matthias Bertschy <matthias.bertschy@gmail.com>"]
+repository = "https://github.com/matthyx/zed-mcp-server-cerebras.git"
+
+[context_servers.mcp-server-cerebras]
+name = "Cerebras MCP Server"
